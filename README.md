@@ -36,4 +36,10 @@ conda activate jotb
 pip install --upgrade -r requirements.txt
 ```
 
+### Start notebook
+
+```sh
+jupyter notebook
+```
+
 
