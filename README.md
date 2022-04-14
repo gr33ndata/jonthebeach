@@ -1,6 +1,6 @@
 # From Zero to Natural Language Processing Hero 
 
-Workshop materials for my talk at [J on the Beach 2022](https://jonthebeach.com/)
+Workshop materials for my workshop at [J on the Beach 2022](https://jonthebeach.com/)
 
 
 # Preparing your machine
