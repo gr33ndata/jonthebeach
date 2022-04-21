@@ -36,10 +36,34 @@ conda activate jotb
 pip install --upgrade -r requirements.txt
 ```
 
+#### Optional download
+
+Ignore the next line if the connection is too slow:
+
+```sh
+python -m spacy download en_core_web_lg
+```
+
+
 ### Start notebook
 
 ```sh
 jupyter notebook
 ```
+
+# Resources
+
+![Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits](https://github.com/gr33ndata/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+- Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits [Amazon ES](https://www.amazon.es/Machine-Learning-scikit-learn-Scientific-Toolkits/dp/1838826041)
+
+- Adyen Blog
+
+
+# Contact me 
+
+Tarek Amr <tarekamr@gmail.com>
+
+
 
 
