@@ -53,11 +53,11 @@ jupyter notebook
 
 # Resources
 
-![Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits](https://github.com/gr33ndata/jonthebeach/blob/main/img/Machine-Learning-Scikit-Learn-Book.jpeg)
+![Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits](/img/Machine-Learning-Scikit-Learn-Book.jpeg)
 
 - Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits [Amazon ES](https://www.amazon.es/Machine-Learning-scikit-learn-Scientific-Toolkits/dp/1838826041)
 
-- Adyen Blog
+- Adyen Tech Blog [Adyen.com/Blog](https://www.adyen.com/blog/category/tech?category=tech)
 
 
 # Contact me 
