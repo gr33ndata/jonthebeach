@@ -53,7 +53,7 @@ jupyter notebook
 
 # Resources
 
-![Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits](https://github.com/gr33ndata/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits](https://github.com/gr33ndata/jonthebeach/blob/main/img/Machine-Learning-Scikit-Learn-Book.jpeg)
 
 - Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits [Amazon ES](https://www.amazon.es/Machine-Learning-scikit-learn-Scientific-Toolkits/dp/1838826041)
 
