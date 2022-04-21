@@ -58,7 +58,7 @@ jupyter notebook
 - Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits [Amazon ES](https://www.amazon.es/Machine-Learning-scikit-learn-Scientific-Toolkits/dp/1838826041)
 
 - Adyen Tech Blog [Adyen.com/Blog](https://www.adyen.com/blog/category/tech?category=tech)
-
+- J on the Beach [Malaga, Spain. 27th-29th April 2022](https://jonthebeach.com/)
 
 # Contact me 
 
