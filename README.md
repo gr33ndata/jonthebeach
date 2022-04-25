@@ -31,8 +31,17 @@ git clone git@github.com:gr33ndata/jonthebeach.git
 
 ```sh
 cd jonthebeach
+```
+
+```sh
 conda create --name jotb python=3.9
+```
+
+```sh
 conda activate jotb
+```
+
+```sh
 pip install --upgrade -r requirements.txt
 ```
 
