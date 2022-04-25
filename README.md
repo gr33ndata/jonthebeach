@@ -79,7 +79,7 @@ jupyter notebook
 
 # Join Adyen
 
-![Adyen payment platform](/img/adyen-logo.png)
+![Adyen payment platform](/img/Adyen-Logo.jpeg)
 
 Adyen is always looking for clever people like you.
 
