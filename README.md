@@ -60,6 +60,12 @@ jupyter notebook
 - Adyen Tech Blog [Adyen.com/Blog](https://www.adyen.com/blog/category/tech?category=tech)
 - J on the Beach [Malaga, Spain. 27th-29th April 2022](https://jonthebeach.com/)
 
+# Join Adyen
+
+Adyen is always looking for clever people like you.
+
+[Check our open positions here](https://careers.adyen.com/)
+
 # Contact me 
 
 Tarek Amr <tarekamr@gmail.com>
