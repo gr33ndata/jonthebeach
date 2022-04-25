@@ -28,18 +28,25 @@ git clone git@github.com:gr33ndata/jonthebeach.git
 
 ### Create a new environment
 
+First, go to the `jonthebeach` directory:
 
 ```sh
 cd jonthebeach
 ```
 
+Let's now create a new environment. Good practice, to keep your computer clean:
+
 ```sh
 conda create --name jotb python=3.9
 ```
 
+et's now activate the environment we have just created:
+
 ```sh
 conda activate jotb
 ```
+
+Install the needed requirements:
 
 ```sh
 pip install --upgrade -r requirements.txt
