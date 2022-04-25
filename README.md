@@ -79,6 +79,8 @@ jupyter notebook
 
 # Join Adyen
 
+![Adyen payment platform](/img/adyen-logo.png)
+
 Adyen is always looking for clever people like you.
 
 [Check our open positions here](https://careers.adyen.com/)
