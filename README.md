@@ -83,9 +83,11 @@ Adyen is always looking for clever people like you.
 
 [Check our open positions here](https://careers.adyen.com/)
 
-# Contact me 
+# About me
 
-Tarek Amr <tarekamr@gmail.com>
+Tarek Amr is a Senior Machine Learning Scientist at [Adyen](https://www.adyen.com/). Before Adyen, Tarek worked for marketplaces such as [Catawiki](https://www.catawiki.com/) and [TicketSwap](https://www.ticketswap.com/), where he built end-to-end data solutions and predictive models. Tarek has published a couple of books on machine learning and data visualization. His most recent book is “[Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits](https://www.packtpub.com/product/hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolkits/9781838826048)”. Tarek holds an MSc. in Computer Science from the [University of East Anglia](https://www.uea.ac.uk/), with focus on algorithms, information retrieval and natural language processing. 
+
+Tarek Amr @[gr33ndata](https://twitter.com/gr33ndata)
 
 
 
