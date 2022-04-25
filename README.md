@@ -1,7 +1,8 @@
 # From Zero to Natural Language Processing Hero 
 
-Workshop materials for my workshop at [J on the Beach 2022](https://jonthebeach.com/)
+Workshop materials for my [From Zero to Natural Language Processing Hero Workshop](https://jonthebeach.com/workshops/From-Zero-to-Natural-Language-Processing-Hero) at [J on the Beach 2022](https://jonthebeach.com/)
 
+> Ever wondered how your email identifies spam messages? How does news applications classify news into topics? Or how does Google translate detect the language of a page? In this session we will explore the theory foundations behind natural language processing. Then we will, step by step, build a machine learning solution that automatically classifies text messages. 
 
 # Preparing your machine
 
