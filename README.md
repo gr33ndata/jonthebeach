@@ -8,7 +8,7 @@ Workshop materials for my [From Zero to Natural Language Processing Hero Worksho
 
 ### Install Miniforge 
 
-Pick the right installer for your machine from [here](https://github.com/conda-forge/miniforge) 
+Pick the right installer for your machine from [this link](https://github.com/conda-forge/miniforge) 
 
 
 ### Initialize Conda 
