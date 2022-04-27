@@ -10,6 +10,8 @@ Workshop materials for my [From Zero to Natural Language Processing Hero Worksho
 
 Pick the right installer for your machine from [this link](https://github.com/conda-forge/miniforge) 
 
+Alternatively, you can install [Anaconda](https://www.anaconda.com/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html), if you prefer any of them to miniforge. 
+
 
 ### Initialize Conda 
 
@@ -27,7 +29,7 @@ Download the code used in this workshop from [this repo](https://github.com/gr33
 git clone git@github.com:gr33ndata/jonthebeach.git
 ```
 
-if not, try this:
+If you get an error, try this instead:
 
 ```sh
 git clone https://github.com/gr33ndata/jonthebeach.git
