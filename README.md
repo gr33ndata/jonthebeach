@@ -27,6 +27,12 @@ Download the code used in this workshop from [this repo](https://github.com/gr33
 git clone git@github.com:gr33ndata/jonthebeach.git
 ```
 
+if not, try this:
+
+```sh
+git clone https://github.com/gr33ndata/jonthebeach.git
+```
+
 ### Create a new environment
 
 First, go to the `jonthebeach` directory:
